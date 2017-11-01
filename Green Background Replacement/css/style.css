@@ -1,0 +1,26 @@
+canvas{
+  width: 400pt;
+  length: 200pt;
+  border:3px dashed lightgrey;
+  margin-right:50px;
+}
+h1{
+  font-size:16pt;
+  color:lightblue;
+  text-align: left;
+}
+body{
+  background-color:black; 
+  margin-top:20px;
+  margin-left: 30px;
+}
+input{
+  font-size:10pt;
+}
+p{
+  color:white;
+  font-size: 15pt;
+}
+#comButt{
+  margin-right:20pt;
+}
