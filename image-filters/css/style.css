@@ -1,0 +1,72 @@
+body{
+  background-image: url("http://wallpapercave.com/wp/wNP0BIe.gif");
+}
+h1{
+  margin-bottom:3pt;    
+  text-align: center;
+  font-size:30pt;
+  color: midnightblue;  
+}
+h3{
+  margin-top:3pt;
+  text-align: center;
+  font-size:15pt;
+  color: deeppink ;
+}
+#can{
+  width: 500px;
+  length: 300px;
+  border: 2px dashed black;
+  margin-left: 310pt;
+}
+.TxtAlign{
+  margin-left: 310pt;
+  margin-bottom: 8pt;
+  font-size:20pt;
+  font-weight: bold;  
+}
+#finput{
+  margin-left: 310pt;
+  background-color: lightblue;
+  color: black;
+  font-size:15pt;
+}
+#reset{
+  font-size:15pt;
+  margin-left: 20pt;
+  background-color: palegreen;
+  color: black;
+}
+#grey{
+  margin-left:285pt;  
+  background-color:grey;
+  color: white;
+  font-weight:bold;
+  font-size:20pt;
+}
+#red{
+  margin-left:30pt; 
+  background-color:red;
+  color: white;
+  font-weight:bold;
+  font-size:20pt;
+}
+#rainbow{
+  margin-left:30pt; 
+  font-size:20pt;
+  color: white;
+  font-weight:bold;
+  background-image: url("https://colourlovers.com.s3.amazonaws.com/blog/wp-content/uploads/2008/09/spektra2-1920.jpg");
+background-position: center;
+}
+#border{
+  margin-left:30pt; 
+  font-size:20pt;
+  color: white;
+  font-weight:bold;
+  background-color:coral;
+}
+#blur{
+  margin-left:30pt; 
+  font-size:20pt;
+}
